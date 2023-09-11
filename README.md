@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Argha Biswas.
-- 👉 I'm currently in my fourth & final year of my undergradute degree.
+- 🧑‍🎓 I'm currently in my fourth & final year of my undergradute degree.
 - 👀 I’m interested in Web Development, Cloud Computing & DBMS.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I like to Cook, Listen to music and Read fictional novel.
